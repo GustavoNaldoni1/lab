@@ -7,3 +7,6 @@
 [submodule "LocalFinder"]
         path = LocalFinder
         url = https://github.com/GustavoNaldoni1/LocalFinder.git
+[submodule "optimus"]
+	path = optimus
+	url = https://github.com/GustavoNaldoni1/optimus-cli.git
