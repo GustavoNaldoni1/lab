@@ -1,3 +1,6 @@
 [submodule "tg-manager"]
 	path = tg-manager
 	url = https://github.com/GustavoNaldoni1/tg-manager
+[submodule "PixelCodec"]
+	path = PixelCodec
+	url = https://github.com/GustavoNaldoni1/PixelCodec
