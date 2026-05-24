@@ -4,3 +4,6 @@
 [submodule "PixelCodec"]
 	path = PixelCodec
 	url = https://github.com/GustavoNaldoni1/PixelCodec
+[submodule "localfinder"]
+	path = localfinder
+	url = https://github.com/GustavoNaldoni1/localfinder
