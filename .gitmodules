@@ -4,3 +4,6 @@
 [submodule "PixelCodec"]
 	path = PixelCodec
 	url = https://github.com/GustavoNaldoni1/PixelCodec
+[submodule "LocalFinder"]
+        path = LocalFinder
+        url = https://github.com/GustavoNaldoni1/LocalFinder.git
