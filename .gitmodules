@@ -10,3 +10,6 @@
 [submodule "optimus"]
 	path = optimus
 	url = https://github.com/GustavoNaldoni1/optimus-cli.git
+[submodule "apps"]
+	path = apps
+	url = https://github.com/GustavoNaldoni1/apps.git
