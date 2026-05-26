@@ -16,3 +16,6 @@
 [submodule "clienter-tas"]
 	path = clienter-tas
 	url = https://github.com/GustavoNaldoni1/clienter-tas.git
+[submodule "permasave"]
+	path = permasave
+	url = https://github.com/GustavoNaldoni1/permasave.git
