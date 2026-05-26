@@ -18,7 +18,7 @@ Each project lives as an independent repository, organized through Git submodule
 | 4 | [optimus-cli](https://github.com/GustavoNaldoni1/optimus-cli) | Global CLI for Windows 10/11 optimization — 50+ scripts across 13 categories including cleanup, gaming, privacy, and performance | Yes | Python · PowerShell |
 | 5 | [apps](https://github.com/GustavoNaldoni1/apps) | Collection of desktop automation tools and workflow utilities for Windows | Yes | Python · pyautogui · PowerShell · ctypes |
 | 6 | [clienter-tas](https://github.com/GustavoNaldoni1/clienter-tas) | Global TAS CLI for recording, editing, executing, and managing frame-by-frame inputs | Yes | Python · pynput · argparse |
-| 7 | [pms-cli](https://github.com/GustavoNaldoni1/pms-cli) | Permanent cloud storage CLI using GitHub Gists with optional authenticated encryption | Yes | Python · hashlib · hmac · base64 · urllib |
+| 7 | [permasave](https://github.com/GustavoNaldoni1/permasave) | Permanent cloud storage CLI using GitHub Gists with optional authenticated encryption | Yes | Python · hashlib · hmac · base64 · urllib |
 
 ---
 
@@ -40,7 +40,7 @@ lab/
 │   └── Desktop Automation Collection
 ├── clienter-tas/
 │   └── Tool-Assisted Speedrun CLI
-└── pms-cli/
+└── permasave/
     └── Permanent Storage CLI
 ````
 
@@ -58,7 +58,7 @@ Each directory is a standalone repository linked as a Git submodule, maintaining
 | optimus-cli  | [GustavoNaldoni1/optimus-cli](https://github.com/GustavoNaldoni1/optimus-cli)   | Active |
 | apps         | [GustavoNaldoni1/apps](https://github.com/GustavoNaldoni1/apps)                 | Active |
 | clienter-tas | [GustavoNaldoni1/clienter-tas](https://github.com/GustavoNaldoni1/clienter-tas) | Active |
-| pms-cli      | [GustavoNaldoni1/pms-cli](https://github.com/GustavoNaldoni1/pms-cli)           | Active |
+| permasave    | [GustavoNaldoni1/pms-cli](https://github.com/GustavoNaldoni1/permasave)         | Active |
 
 ---
 
