@@ -13,3 +13,6 @@
 [submodule "apps"]
 	path = apps
 	url = https://github.com/GustavoNaldoni1/apps.git
+[submodule "clienter-tas"]
+	path = clienter-tas
+	url = https://github.com/GustavoNaldoni1/clienter-tas.git
