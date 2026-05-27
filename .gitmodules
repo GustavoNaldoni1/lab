@@ -19,3 +19,6 @@
 [submodule "permasave"]
 	path = permasave
 	url = https://github.com/GustavoNaldoni1/permasave.git
+[submodule "deals"]
+	path = deals
+	url = https://github.com/GustavoNaldoni1/deals.git
